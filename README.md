@@ -7,5 +7,4 @@
 
 ## Réseaux
 
-[<img src='https://github.com/ObjectifDeveloppeur/ObjectifDeveloppeur/blob/main/youtube.png' alt='twitter' height='40'>](https://www.youtube.com/c/ObjectifDéveloppeur) 
-[<img src='https://github.com/ObjectifDeveloppeur/ObjectifDeveloppeur/blob/main/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/maxime-lathière/) [<img src='https://github.com/ObjectifDeveloppeur/ObjectifDeveloppeur/blob/main/insta.png' alt='instagram' height='40'>](https://www.instagram.com/objectif.developpeur/)  [<img src='https://github.com/ObjectifDeveloppeur/ObjectifDeveloppeur/blob/main/twitter.png' alt='twitter' height='40'>](https://twitter.com/objectif_DeviOS) 
+[<img src='https://github.com/ObjectifDeveloppeur/ObjectifDeveloppeur/blob/main/youtube.png' alt='twitter' height='40'>](https://www.youtube.com/c/ObjectifDéveloppeur)$~~~~~~$[<img src='https://github.com/ObjectifDeveloppeur/ObjectifDeveloppeur/blob/main/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/maxime-lathière/)$~~~~~~$[<img src='https://github.com/ObjectifDeveloppeur/ObjectifDeveloppeur/blob/main/insta.png' alt='instagram' height='40'>](https://www.instagram.com/objectif.developpeur/)$~~~~~~$[<img src='https://github.com/ObjectifDeveloppeur/ObjectifDeveloppeur/blob/main/twitter.png' alt='twitter' height='40'>](https://twitter.com/objectif_DeviOS) 
