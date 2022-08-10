@@ -1,4 +1,4 @@
-![Moi c'est Maxime, 32 ans de Marseille.](https://github.com/ObjectifDeveloppeur/ObjectifDeveloppeur/blob/main/banniere.png)
+<img src='https://github.com/ObjectifDeveloppeur/ObjectifDeveloppeur/blob/main/banniere.png' alt='twitter'>
 
 ## Bonjour à tous 👋
 ### Moi c'est Maxime, 32 ans de Marseille.
