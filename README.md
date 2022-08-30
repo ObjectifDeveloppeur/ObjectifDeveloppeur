@@ -7,4 +7,4 @@
 &nbsp;
 ## Réseaux
 
-$~~~~~~$[<img src='https://github.com/ObjectifDeveloppeur/ObjectifDeveloppeur/blob/main/twitter.png' alt='twitter' height='40'>](https://linktr.ee/objectif_developpeur) 
+$~~~~~~$[<img src='https://github.com/ObjectifDeveloppeur/ObjectifDeveloppeur/blob/main/reseaux.png' alt='twitter' height='40'>](https://linktr.ee/objectif_developpeur) 
